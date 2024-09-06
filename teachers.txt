@@ -1,0 +1,77 @@
+"Mr. Adams": ["Enjoys skydiving", "10:00 AM"]||
+"Ms. Baker": ["Has a collection of rare coins", "11:00 AM"]||
+"Mrs. Carter": ["Speaks five languages", "2:00 PM"]||
+"Mr. Davis": ["Is a gourmet chef", "9:00 AM"]||
+"Ms. Evans": ["Plays the violin", "1:00 PM"]||
+"Mr. Foster": ["Loves rock climbing", "10:30 AM"]||
+"Ms. Green": ["Writes mystery novels", "3:00 PM"]||
+"Mrs. Harris": ["Can juggle 5 balls", "2:30 PM"]||
+"Mr. Ingram": ["Has a pet turtle", "11:30 AM"]||
+"Ms. Jenkins": ["Is a certified Pilates instructor", "8:30 AM"]||
+"Mr. Kelly": ["Enjoys woodworking", "12:00 PM"]||
+"Ms. Lewis": ["Is an avid gardener", "9:30 AM"]||
+"Mr. Martinez": ["Plays in a jazz band", "1:30 PM"]||
+"Ms. Nelson": ["Has a black belt in karate", "10:00 AM"]||
+"Mrs. O'Connor": ["Brews her own beer", "3:30 PM"]||
+"Mr. Parker": ["Has climbed Mount Kilimanjaro", "2:00 PM"]||
+"Ms. Quinn": ["Does competitive swimming", "11:00 AM"]||
+"Mr. Roberts": ["Writes science fiction", "1:00 PM"]||
+"Ms. Smith": ["Loves making pottery", "8:00 AM"]||
+"Mrs. Turner": ["Is a world traveler", "12:30 PM"]||
+"Mr. Underwood": ["Plays the drums", "9:00 AM"]||
+"Ms. Vance": ["Is an amateur astronomer", "3:00 PM"]||
+"Mr. Walker": ["Has a huge Lego collection", "10:00 AM"]||
+"Ms. Young": ["Is a certified scuba diver", "2:30 PM"]||
+"Mrs. Ziegler": ["Has a pet iguana", "11:00 AM"]||
+"Mr. Anderson": ["Enjoys painting landscapes", "1:00 PM"]||
+"Ms. Brown": ["Is a chess champion", "8:00 AM"]||
+"Mr. Collins": ["Loves to bake bread", "3:30 PM"]||
+"Ms. Douglas": ["Has visited 50 countries", "10:30 AM"]||
+"Mr. Edwards": ["Is a fly-fishing enthusiast", "12:00 PM"]||
+"Ms. Fisher": ["Plays the ukulele", "9:30 AM"]||
+"Mrs. Gomez": ["Can do magic tricks", "1:30 PM"]||
+"Mr. Harris": ["Enjoys deep-sea fishing", "2:00 PM"]||
+"Ms. Inglewood": ["Has a pet rabbit", "11:30 AM"]||
+"Mr. James": ["Is an avid cyclist", "8:30 AM"]||
+"Ms. Kelly": ["Loves gardening", "2:00 PM"]||
+"Mr. Lopez": ["Speaks fluent Italian", "10:00 AM"]||
+"Ms. Mitchell": ["Makes her own jewelry", "1:00 PM"]||
+"Mr. Nolan": ["Enjoys bird watching", "9:00 AM"]||
+"Ms. O'Malley": ["Plays the harp", "3:00 PM"]||
+"Mr. Phillips": ["Can solve a Rubik's Cube in under a minute", "11:00 AM"]||
+"Ms. Quinn": ["Has a vast book collection", "12:30 PM"]||
+"Mr. Robinson": ["Collects vintage cars", "10:30 AM"]||
+"Ms. Sullivan": ["Is a certified aromatherapist", "2:30 PM"]||
+"Mr. Thompson": ["Brews his own coffee", "9:00 AM"]||
+"Ms. Underwood": ["Has a pet cat", "1:30 PM"]||
+"Mr. Vaughn": ["Plays competitive soccer", "8:00 AM"]||
+"Ms. Walker": ["Loves knitting", "3:00 PM"]||
+"Mrs. Yates": ["Is a movie buff", "10:00 AM"]||
+"Mr. Zimmerman": ["Has a home theater system", "12:00 PM"]||
+"Ms. Adams": ["Enjoys sailing", "11:00 AM"]||
+"Mr. Baker": ["Is a history buff", "1:00 PM"]||
+"Ms. Carter": ["Is an expert in origami", "9:30 AM"]||
+"Mr. Davis": ["Loves to scuba dive", "3:00 PM"]||
+"Ms. Evans": ["Can do acrobatic tricks", "2:00 PM"]||
+"Mr. Foster": ["Is a professional photographer", "8:00 AM"]||
+"Ms. Green": ["Brews her own kombucha", "11:30 AM"]||
+"Mrs. Harris": ["Is an expert in calligraphy", "12:30 PM"]||
+"Mr. Ingram": ["Can ride a unicycle", "10:00 AM"]||
+"Ms. Jenkins": ["Has a huge model train set", "1:00 PM"]||
+"Mr. Kelly": ["Is a passionate cyclist", "3:00 PM"]||
+"Ms. Lewis": ["Loves astronomy", "9:00 AM"]||
+"Mr. Martinez": ["Is a wildlife photographer", "2:30 PM"]||
+"Ms. Nelson": ["Speaks Japanese", "10:00 AM"]||
+"Mrs. O'Connor": ["Is a master in Tai Chi", "12:00 PM"]||
+"Mr. Parker": ["Has a pet ferret", "11:00 AM"]||
+"Ms. Quinn": ["Enjoys underwater basket weaving", "8:00 AM"]||
+"Mr. Roberts": ["Plays in a local theater group", "3:00 PM"]||
+"Ms. Smith": ["Is a yoga enthusiast", "1:00 PM"]||
+"Mrs. Turner": ["Collects rare books", "9:30 AM"]||
+"Mr. Underwood": ["Loves to restore old furniture", "10:00 AM"]||
+"Ms. Vance": ["Can speak four languages", "2:00 PM"]||
+"Mr. Walker": ["Enjoys woodworking", "11:30 AM"]||
+"Ms. Young": ["Has a collection of antique maps", "12:00 PM"]||
+"Mrs. Ziegler": ["Is a vintage toy collector", "1:00 PM"]||
+"Mr. Anderson": ["Loves rock climbing", "3:00 PM"]||
+"Ms. Brown": ["Enjoys playing the saxophone", "10:00 AM"]||
